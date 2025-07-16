@@ -1,11 +1,11 @@
 
-# Email Spam Filter using Supervised Machine Learning
+# SMS Spam Filter using Supervised Machine Learning
 
-This project demonstrates how to build a machine learning-based spam classifier to detect whether an email is spam or ham (not spam). It leverages natural language processing (NLP) techniques and supervised learning algorithms to analyze and classify email content.
+This project demonstrates how to build a machine learning-based spam classifier to detect whether a SMS is spam or ham (not spam). It leverages natural language processing (NLP) techniques and supervised learning algorithms to analyze and classify email content.
 
 ## Project Overview
 
-Spam emails are a common nuisance that can clutter inboxes and pose security risks. In this project, we:
+Spam messages are a common nuisance that can clutter inboxes and pose security risks. In this project, we:
 - Preprocess raw email text data
 - Convert text into numerical features using TF-IDF
 - Train a classification model (Multinomial Naive Bayes)
