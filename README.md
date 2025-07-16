@@ -39,7 +39,7 @@ The dataset contains labeled messages categorized as `spam` or `ham`.
 
 This is about my simple project on classifying spam and ham mails from my inbox using naive bayes classification in Supervised machine learning Techniques.
 
-Feel Free to drop your comments and your feedback here - [Email Me](mailto:yuvasree.t9@gmail.com) ( Hoping that it won't fill my inbox with spam mails :) )
+Feel Free to drop your comments and your feedback here - [Email Me](mailto:yuvasree.t9@gmail.com) ( Hoping that it won't fill my inbox with spam messages :) )
 
 Thanks for reading!!
 
